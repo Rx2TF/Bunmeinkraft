@@ -1,0 +1,43 @@
+[
+  {
+    "names": [
+      "cyberware:trenchcoat",
+      "cyberware:jacket"
+    ],
+    "modifier": 1
+  },
+  {
+    "names":[
+      "cyberware:shades",
+      "cyberware:shades2"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "toughasnails:jelled_slime_helmet",
+      "toughasnails:jelled_slime_chestplate",
+      "toughasnails:jelled_slime_leggings",
+      "toughasnails:jelled_slime_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "toughasnails:wool_helmet",
+      "toughasnails:wool_chestplate",
+      "toughasnails:wool_leggings",
+      "toughasnails:wool_boots"
+    ],
+    "modifier": 2
+  }
+]

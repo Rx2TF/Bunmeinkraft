@@ -1,0 +1,1 @@
+recipes.remove(<twilightforest:tower_wood>);
