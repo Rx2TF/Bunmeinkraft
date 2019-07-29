@@ -6,6 +6,7 @@ config/AppliedEnergistics2/items.csv
 config/jei/bookmarks.ini
 config/multimob/modInformation/
 config/serversync/
+config/tlf/*.errored
 config/vanillafix/methods-stable_39.csv
 config/moresoundconfig.cfg
 coremods/
@@ -39,4 +40,3 @@ config/AppliedEnergistics2/VersionChecker.cfg
 config/jei/worldSettings.cfg
 config/ichunutil.cfg
 config/splash.properties
-config/AppliedEnergistics2/CustomRecipes.cfg
