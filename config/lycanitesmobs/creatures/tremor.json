@@ -3,7 +3,7 @@
   "creatureType": "elemental",
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityTremor",
   "modelClass": "com.lycanitesmobs.core.model.creature.ModelTremor",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -20,7 +20,7 @@
     "spawnGroupMax": 3,
     "spawnsInLight": false,
     "spawnsInDark": true,
-    "worldDayMin": -1,
+    "worldDayMin": 7,
     "despawnNatural": true,
     "despawnForced": false
   },
