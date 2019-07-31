@@ -23,6 +23,7 @@
     "oreAluminum": {
       "slagColor": "e2e2e3",
       "langKey": [
+        "geolosys:geolosys.cluster.aluminum",
         "immersiveengineering:tile.immersiveengineering.ore.aluminum",
         "libvulpes:material.Aluminum"
       ],
@@ -57,6 +58,7 @@
       "slagColor": "ffaa1c",
       "langKey": [
         "abyssalcraft:tile.abycopore",
+        "geolosys:geolosys.cluster.copper",
         "immersiveengineering:tile.immersiveengineering.ore.copper",
         "libvulpes:material.Copper",
         "magneticraft:tile.magneticraft.ores_copper",
@@ -79,6 +81,7 @@
       "slagColor": "fcee4b",
       "langKey": [
         "abyssalcraft:tile.abygolore",
+        "geolosys:geolosys.cluster.gold",
         "minecraft:tile.oreGold"
       ],
       "output": [
@@ -99,6 +102,7 @@
       "slagColor": "d8af93",
       "langKey": [
         "abyssalcraft:tile.abyiroore",
+        "geolosys:geolosys.cluster.iron",
         "minecraft:tile.oreIron"
       ],
       "output": [
@@ -113,6 +117,7 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
+        "geolosys:geolosys.cluster.lead",
         "immersiveengineering:tile.immersiveengineering.ore.lead",
         "magneticraft:tile.magneticraft.ores_lead",
         "nuclearcraft:tile.nuclearcraft.ore.lead",
@@ -129,6 +134,7 @@
     "oreNickel": {
       "slagColor": "e4e5d8",
       "langKey": [
+        "geolosys:geolosys.cluster.nickel",
         "immersiveengineering:tile.immersiveengineering.ore.nickel",
         "railcraft:tile.railcraft.ore.metal.nickel"
       ],
@@ -142,6 +148,7 @@
     "oreOsmium": {
       "slagColor": "9babc4",
       "langKey": [
+        "geolosys:geolosys.cluster.osmium",
         "mekanism:tile.OreBlock.OsmiumOre"
       ],
       "output": [
@@ -149,9 +156,19 @@
         "mekanism:nugget:1"
       ]
     },
+    "orePlatinum": {
+      "slagColor": "55f3ff",
+      "langKey": [
+        "geolosys:geolosys.cluster.platinum"
+      ],
+      "output": [
+        "primal:platinum_nugget:0"
+      ]
+    },
     "oreSilver": {
       "slagColor": "e8f6fd",
       "langKey": [
+        "geolosys:geolosys.cluster.silver",
         "immersiveengineering:tile.immersiveengineering.ore.silver",
         "magneticraft:tile.magneticraft.ores_lead",
         "railcraft:tile.railcraft.ore.metal.silver"
@@ -170,6 +187,7 @@
       "slagColor": "c3e9ff",
       "langKey": [
         "abyssalcraft:tile.abytinore",
+        "geolosys:geolosys.cluster.tin",
         "libvulpes:material.Tin",
         "mekanism:tile.OreBlock.TinOre",
         "nuclearcraft:tile.nuclearcraft.ore.tin",
@@ -187,6 +205,7 @@
     "oreUranium": {
       "slagColor": "5c734b",
       "langKey": [
+        "geolosys:geolosys.cluster.uranium",
         "immersiveengineering:tile.immersiveengineering.ore.uranium",
         "nuclearcraft:tile.nuclearcraft.ore.uranium"
       ],
