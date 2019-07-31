@@ -35,3 +35,6 @@ recipes.addShapeless("CTBWM_clay_brick_integration2", <pyrotech:material:24>, [<
 
 //Animania & PrimalCore Mud
 recipes.addShapeless("CTAnimania_mud_integration", <animania:block_mud> * 2, [<primal:mud_clump>, <primal:mud_clump>, <primal:mud_clump>, <primal:mud_clump>, <primal:mud_clump>, <primal:mud_clump>, <primal:mud_clump>, <primal:mud_clump>]);
+
+//PrimalCore Split Log to Rustic Stake
+recipes.addShapeless("CTRustic_crop_stake", <rustic:crop_stake>, [<ore:logSplit>]);

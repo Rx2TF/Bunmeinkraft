@@ -1,1 +1,1 @@
-recipes.remove(<minecraft:planks>);
+//recipes.remove(<minecraft:planks>);
