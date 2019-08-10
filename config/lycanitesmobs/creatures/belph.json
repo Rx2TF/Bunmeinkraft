@@ -3,7 +3,7 @@
   "creatureType": "demon",
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityBelph",
   "modelClass": "com.lycanitesmobs.core.model.creature.ModelBelph",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -74,7 +74,7 @@
       "item": "minecraft:nether_wart",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 1
+      "chance": 0.25
     },
     {
       "item": "lycanitesmobs:doomfirecharge",

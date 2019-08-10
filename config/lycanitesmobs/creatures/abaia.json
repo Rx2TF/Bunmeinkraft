@@ -78,19 +78,19 @@
       "burningItem": "minecraft:cooked_fish",
       "minAmount": 1,
       "maxAmount": 5,
-      "chance": 1
+      "chance": 0.5
     },
     {
       "item": "minecraft:glowstone_dust",
       "minAmount": 1,
       "maxAmount": 8,
-      "chance": 1
+      "chance": 0.5
     },
     {
       "item": "lycanitesmobs:soulstonefreshwater",
       "minAmount": 1,
       "maxAmount": 1,
-      "chance": 1,
+      "chance": 0.0625,
       "subspecies": 3
     }
   ],

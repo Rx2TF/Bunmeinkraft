@@ -3,7 +3,7 @@
   "creatureType": "aquatic",
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAbtu",
   "modelClass": "com.lycanitesmobs.core.model.creature.ModelAbtu",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -76,7 +76,7 @@
       "burningMetadata": 1,
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 1
+      "chance": 0.5
     }
   ],
   "sizeScale": 1,

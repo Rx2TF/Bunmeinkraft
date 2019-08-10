@@ -3,7 +3,7 @@
   "creatureType": "aquatic",
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityStrider",
   "modelClass": "com.lycanitesmobs.core.model.creature.ModelStrider",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -66,7 +66,7 @@
   "peaceful": false,
   "summonable": false,
   "tameable": true,
-  "mountable": false,
+  "mountable": true,
   "summonCost": 4,
   "dungeonLevel": 3,
   "drops": [
@@ -75,7 +75,7 @@
       "burningItem": "minecraft:cooked_fish",
       "minAmount": 1,
       "maxAmount": 5,
-      "chance": 1
+      "chance": 0.5
     },
     {
       "item": "minecraft:fish",
@@ -84,19 +84,19 @@
       "burningMetadata": 1,
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 0.5
+      "chance": 0.01
     },
     {
       "item": "minecraft:prismarine_shard",
       "minAmount": 1,
       "maxAmount": 2,
-      "chance": 1
+      "chance": 0.0625
     },
     {
       "item": "minecraft:prismarine_crystals",
       "minAmount": 1,
       "maxAmount": 1,
-      "chance": 0.5
+      "chance": 0.0625
     }
   ],
   "sizeScale": 1,

@@ -3,7 +3,7 @@
   "creatureType": "elemental",
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAegis",
   "modelClass": "com.lycanitesmobs.core.model.creature.ModelAegis",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -65,7 +65,7 @@
       "item": "minecraft:quartz",
       "minAmount": 1,
       "maxAmount": 8,
-      "chance": 0.75
+      "chance": 0.25
     },
     {
       "item": "minecraft:gold_nugget",

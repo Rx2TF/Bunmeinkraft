@@ -76,13 +76,13 @@
       "burningMetadata": 1,
       "minAmount": 3,
       "maxAmount": 6,
-      "chance": 1
+      "chance": 0.5
     },
     {
       "item": "minecraft:bone",
       "minAmount": 1,
       "maxAmount": 3,
-      "chance": 1
+      "chance": 0.5
     }
   ],
   "sizeScale": 1,

@@ -3,7 +3,7 @@
   "creatureType": "undead",
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityReaper",
   "modelClass": "com.lycanitesmobs.core.model.creature.ModelReaper",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -74,8 +74,8 @@
     {
       "item": "minecraft:obsidian",
       "minAmount": 1,
-      "maxAmount": 2,
-      "chance": 0.5
+      "maxAmount": 1,
+      "chance": 0.0625
     },
     {
       "item": "minecraft:skull",

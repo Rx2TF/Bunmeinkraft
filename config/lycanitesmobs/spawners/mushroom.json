@@ -2,8 +2,8 @@
   "name": "mushroom",
   "type": "spawner",
   "enabled": true,
-  "loadDefault": true,
-  "mobCountMin": 3,
+  "loadDefault": false,
+  "mobCountMin": 1,
   "ignoreDimensions": true,
   "ignoreBiomes": true,
   "ignoreLightLevel": false,
@@ -20,7 +20,7 @@
   "triggers": [
     {
       "type": "world",
-      "chance": 0.5,
+      "chance": 0.25,
       "tickRate": 800
     }
   ],
