@@ -40,3 +40,4 @@ config/AppliedEnergistics2/VersionChecker.cfg
 config/jei/worldSettings.cfg
 config/ichunutil.cfg
 config/splash.properties
+minemenu/menu.json

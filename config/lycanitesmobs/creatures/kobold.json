@@ -3,7 +3,7 @@
   "creatureType": "beast",
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityKobold",
   "modelClass": "com.lycanitesmobs.core.model.creature.ModelKobold",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -27,7 +27,7 @@
     "dungeonWeight": 200,
     "spawnAreaLimit": 5,
     "spawnGroupMin": 1,
-    "spawnGroupMax": 3,
+    "spawnGroupMax": 1,
     "spawnsInLight": false,
     "spawnsInDark": true,
     "worldDayMin": -1,
@@ -77,7 +77,7 @@
       "item": "minecraft:coal",
       "minAmount": 1,
       "maxAmount": 2,
-      "chance": 0.25
+      "chance": 0.0625
     },
     {
       "item": "minecraft:iron_ingot",
@@ -101,7 +101,7 @@
       "item": "minecraft:rabbit",
       "minAmount": 1,
       "maxAmount": 1,
-      "chance": 0.5
+      "chance": 0.0625
     }
   ],
   "sizeScale": 1,

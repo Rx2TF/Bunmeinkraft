@@ -12,6 +12,29 @@
           "toggle": false
         }
       }
+    },
+    "1": {
+      "title": "Summon",
+      "icon": {
+        "name": "minecraft:sapling",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.pets",
+          "toggle": false
+        }
+      }
+    },
+    "2": {
+      "title": "Lycanites",
+      "icon": {
+        "name": "minecraft:web",
+        "damage": 0
+      },
+      "action": {
+        "category": "Lycanites"
+      }
     }
   }
 }

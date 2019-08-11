@@ -249,5 +249,25 @@
     "weight": 10,
     "enabled": true,
     "_comment": " "
+  },
+  "VallenFrostweavr": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "iskall85": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Xisuma": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
+  },
+  "Grian": {
+    "weight": 10,
+    "enabled": true,
+    "_comment": " "
   }
 }

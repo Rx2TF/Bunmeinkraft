@@ -62,5 +62,12 @@
       }
     },
     "temperature": 3.0
+  },
+  {
+    "state": {
+      "block": "ancientwarfarestructure:fire_pit",
+      "properties": {}
+    },
+    "temperature": 5
   }
 ]
