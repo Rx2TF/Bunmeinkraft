@@ -169,6 +169,7 @@
       "slagColor": "e8f6fd",
       "langKey": [
         "geolosys:geolosys.cluster.silver",
+        "iceandfire:tile.iceandfire.silverOre",
         "immersiveengineering:tile.immersiveengineering.ore.silver",
         "magneticraft:tile.magneticraft.ores_lead",
         "railcraft:tile.railcraft.ore.metal.silver"
