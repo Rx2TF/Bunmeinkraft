@@ -41,3 +41,4 @@ config/jei/worldSettings.cfg
 config/ichunutil.cfg
 config/splash.properties
 minemenu/menu.json
+config/tickdynamic.cfg
