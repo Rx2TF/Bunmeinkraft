@@ -7,5 +7,14 @@
     "thirst": 6,
     "hydration": 0.7,
     "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "rustic:wildberries",
+      "metadata": 0
+    },
+    "thirst": 1,
+    "hydration": 0.1,
+    "poisonChance": 0.0
   }
 ]

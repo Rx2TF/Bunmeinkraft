@@ -42,3 +42,5 @@ config/ichunutil.cfg
 config/splash.properties
 minemenu/menu.json
 config/tickdynamic.cfg
+config/LagGoggles-server.cfg
+config/LagGoggles-client.cfg
