@@ -38,3 +38,6 @@ recipes.addShapeless("CTAnimania_mud_integration", <animania:block_mud> * 2, [<p
 
 //PrimalCore Split Log to Rustic Stake
 recipes.addShapeless("CTRustic_crop_stake", <rustic:crop_stake>, [<ore:logSplit>]);
+
+//BetterWithMods & PrimalCore Pelt to Cut Leather
+recipes.addShapeless("CTBWM_pelt_leather", <betterwithmods:material:31>, [<ore:pelt>,<ore:toolShears>]);
