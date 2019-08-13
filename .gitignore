@@ -14,7 +14,11 @@ crash-reports/
 fonts/
 llibrary/
 logs/
-mods/
+mods/memory_repo
+mods/millenaire
+mods/railcraft
+mods/*.jar
+mods/*.disabled
 MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump/
 opframe_cache/
 raidersWhitelist/
